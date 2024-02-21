@@ -1,0 +1,28 @@
+.skill {
+  margin: 1px;
+  padding: 10px;
+  border-radius: 15px;
+  margin-bottom: 5px;
+  font-weight: bold;
+  display: inline-block;
+}
+.language {
+  background-color: #e6ccff;
+  color: #660099;
+}
+.framework {
+  background-color: #b3e0ff;
+  color: #0056b3;
+}
+.technology {
+  background-color: #c1ffc1;
+  color: #008000;
+}
+.cloud {
+  background-color: #FFBEA8;
+  color: #BA3408;
+}
+.tool {
+  background-color: #FFD28F;
+  color: #AA6709;
+}
