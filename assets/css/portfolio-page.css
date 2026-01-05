@@ -5,3 +5,7 @@ header span.logo img {
 .portfolio-section {
   min-height: 45vh;
 }
+
+span.image a img {
+  border: 1px solid #ccc;
+}

@@ -1,3 +1,15 @@
+#skills.main {
+  padding-top: 30px;
+}
+
+#skills header {
+  margin-bottom: 0;
+}
+
+.skills-group {
+  margin-top: 15px;
+}
+
 .skill {
   margin: 1px;
   padding: 10px;
@@ -6,22 +18,27 @@
   font-weight: bold;
   display: inline-block;
 }
+
 .language {
   background-color: #e6ccff;
   color: #660099;
 }
+
 .framework {
   background-color: #b3e0ff;
   color: #0056b3;
 }
+
 .technology {
   background-color: #c1ffc1;
   color: #008000;
 }
+
 .cloud {
   background-color: #FFBEA8;
   color: #BA3408;
 }
+
 .tool {
   background-color: #FFD28F;
   color: #AA6709;
